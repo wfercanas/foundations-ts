@@ -1,0 +1,3 @@
+(() => {
+  let isEnable = true;
+})();
